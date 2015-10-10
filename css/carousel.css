@@ -124,7 +124,7 @@ body {
   }
   
   .carousel-inner > .item > img {
-  	max-width: 400%;
+  	max-width: 100%;
 }
 
   .featurette-heading {
