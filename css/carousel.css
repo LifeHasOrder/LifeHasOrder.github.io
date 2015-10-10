@@ -53,8 +53,6 @@ body {
   background-color: #777;
 }
 .carousel-inner > .item > img {
-  min-width: 100%;
-  min-height: 500px;
   height: auto;
   width: auto;
   vertical-align: middle;
