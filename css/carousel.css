@@ -124,7 +124,11 @@ body {
   }
   
   .carousel-inner > .item > img {
-  	margin: 0 auto;
+  	position: absolute;
+	top: 0;
+	left: 0;
+	height: 500px;
+	max-width: 100%;
 }
 
   .featurette-heading {
