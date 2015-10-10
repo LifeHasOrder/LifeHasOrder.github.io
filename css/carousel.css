@@ -60,6 +60,8 @@ body {
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
+  overflow: hidden;
+  position:relative;
 }
 
 
