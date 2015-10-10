@@ -124,7 +124,7 @@ body {
   }
   
   .carousel-inner > .item > img {
-  	text-align:center;
+  	margin: 0 auto;
 }
 
   .featurette-heading {
