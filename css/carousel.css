@@ -55,7 +55,7 @@ body {
 .carousel-inner > .item > img {
   align: middle;
   width: auto;
-  height: auto;
+  height: 500px;
   min-width: 100%
   max-width: none
 }
