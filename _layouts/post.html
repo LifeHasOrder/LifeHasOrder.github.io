@@ -1,9 +1,27 @@
 ---
 layout: default
 ---
+
+<!-- Bootstrap core CSS -->
+    <link href="/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/dist/css/font-awesome.min.css">
+
+   
+
+    <!-- Custom styles for this template -->
+    <link href="/dist/css/carousel.css" rel="stylesheet">
+    
+    
+    
 <h1>{{ page.title }}</h1>
+<h2><span class="text-muted">{{page.subtitle}}</span></h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
   {{ content }}
+  <hr class="featurette-divider">
 </div>
+
+<!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="/dist/js/bootstrap.min.js"></script>
