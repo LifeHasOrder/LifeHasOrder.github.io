@@ -41,6 +41,7 @@ body {
 .carousel {
   height: 500px;
   margin-bottom: 60px;
+  overflow: hidden;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -51,12 +52,17 @@ body {
 .carousel .item {
   height: 500px;
   background-color: #777;
+  overflow: hidden;
 }
 .carousel-inner > .item > img {
-  position: absolute;
+  left: -9999px;  /*important */
+  right: -9999px;  /*important */
+  margin: 0 auto;  /*important */
+  max-width: none;  /*important */
   min-width: 100%;
+  position: absolute;
   height: 500px;
-  max-width: none;
+  overflow: hidden;
 }
 
 
