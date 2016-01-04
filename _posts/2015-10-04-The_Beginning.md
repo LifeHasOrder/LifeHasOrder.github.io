@@ -3,7 +3,17 @@ layout: post
 title: "What is in a Name?"
 subtitle: "Curiosity and Creativity"
 summary: "I hope this website will serve not only as a creative outlet, but as a means to communicate science to you. In doing so, I will present myself as a whole person who has hobbies and delights in many things outside of the realm of science."
-date: 2015-10-04
+date: 2016-01-03
+image: /img/wolf.jpg
 ---
 
-Welcome! This is where it all begins; I must say I am very excited to share my ideas with the world (that is if anyone decides to stop by)! I feel this is also the perfect opportunity to explain why I chose the name that I did. Firstly, I should mention that I have always been fascinated by the natural world around me, and I delight in the process of gaining knowledge. Thus, it may not come as a surprise that I am pursuing a career in science. The "why" in the website's name is an indication of this sense of wonder, which I hope to pass on to future potential scientists. As a first-year graduate student, I have little time to develop this site, but I appreciate your patience. There will be more content soon!
+<div class="col-md-12">
+         
+        </div>
+Welcome! WhyWolff is my personal website; the name is a creative play upon my last name, having a sense of curiosity, and the name of a popular mythical creature (ie: werewolves). My goal is to infect others with a sense of curiosity about the natural world, and to spread the joy that science and knowledge can provide. I feel that scientists are often portrayed negatively in the popular media, so I hope that by coming out of my shell I can do my small part to change that.
+
+Most people start out as great scientists; as children we are capable of asking some of the most fundamental questions about the natural world, and we constantly do so. Over time many people lose this sense of wonder, or they even begin to fear science and mathematics.  It is true, they are difficult at times. Nonetheless, the key thing to remember is that science is about wonder and asking questions, not remembering facts from a textbook. While we certainly cannot all make our living as scientists, everyone can benefit from the power of scientific thinking. Even more importantly, citizens can participate in and influence scientific research. Furthering our knowedge about the natural world will improve your life, your family's lives, and our ability to make wise decisions. If you are on board with that last sentence, that is great. I bet you can list examples demonstrating this is true. If you are not on board with the idea that discovery promotes progress, that is OK, your skepticism will make you a great scientist!
+
+More to come soon!
+
+Also, a disclaimer: This website is a work in progress, so I thank you for your patience. The "About" pages are all currently complete, but the "Main Topics" pages are not filled in.

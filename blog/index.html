@@ -12,11 +12,11 @@ layout: default
           		<h2 class="featurette-heading">{{post.title}}
           		<br>
           		<span class="text-muted">{{post.subtitle}}</span></h2>
-          		<p class="lead">{{post.summary}}</p>
+          		<p class="lead text-justify">{{post.summary}}</p>
           		<p class="footer"><a href="{{ post.url }}">Read More...</a></p>
         	</div>
         	<div class="col-md-5">
-          		<img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="">
+          		<img class="image" src="{{ post.image }}" alt="">
         	</div>
 		</div>
 		

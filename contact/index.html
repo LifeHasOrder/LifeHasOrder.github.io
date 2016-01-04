@@ -48,7 +48,14 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a href="/">Home</a></li>
+                <li class="dropdown">
+                  <a href="/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Main Topics <span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="/learning">Learning</a></li>
+                    <li><a href="/science">Science</a></li>
+                    <li><a href="/hobbies">A Balanced Life</a></li>
+                  </ul>
+                </li>
                 <li><a href="/blog">Blog</a></li>
                 <li><a href="/about">About</a></li>
                 <li class="active"><a href="/contact">Contact</a></li>
@@ -63,6 +70,7 @@
                     <li><a href="http://biophysics.ucsf.edu/">UCSF Biophysics</a></li>
                     <li><a href="http://fraserlab.com/">Fraser Lab</a></li>
                     <li><a href="http://frostlab.org/">Frost Lab</a></li>
+                    <li><a href="http://www.msg.ucsf.edu/agard/">Agard Lab</a></li>
                   </ul>
                 </li>
               </ul>
@@ -83,11 +91,14 @@
 
       <!-- START THE FEATURETTES -->
 
-      <hr class="divider">
+      <hr class="featurette-top-divider">
 
       <div class="row featurette">
-        <div class="col-md-12">
-          <h2 class="featurette-heading">Email: <a class="pull-right" href="mailto:alex_wolff7@hotmail.com"><i class="fa fa-envelope fa-2x"></i></a></h2>
+        <div class="col-md-4">
+          <h2 class="featurette-heading">Email:</h2>
+        </div>
+        <div class="col-md-8">
+          <h3 class="featurette-heading pull-right" >alex_wolff7(at)hotmail(dot)com</h3>
         </div>
       </div>
 
@@ -123,7 +134,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2015 Alexander Wolff</p>
+        <p>&copy; 2016 Alexander Wolff</p>
       </footer>
 
     </div><!-- /.container -->
