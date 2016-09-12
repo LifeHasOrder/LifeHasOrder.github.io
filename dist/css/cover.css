@@ -3,10 +3,16 @@
  */
 
 /* Links */
-a,
+a{
+  color:#fff;
+}
+.btn:focus,
+.btn:hover,
+span:focus,
+span:hover,
 a:focus,
 a:hover {
-  color: #fff;
+  color: #1eddd8;
 }
 
 /* Custom default button */
@@ -23,8 +29,13 @@ a:hover {
 /*
  * Base structure
  */
-
-html,
+ /*note that by commenting out the html below you can have the cover image on the whole website, the background image will slide with the browser's window*/
+html{
+no-repeat center center fixed;
+background-size: cover;
+height: 100%;
+/*overflow: hidden;*/
+}
 body {
   height: 100%;
   background-color: #00012b;
@@ -32,6 +43,8 @@ body {
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
   position: relative;
+  overflow: scroll;
+-webkit-overflow-scrolling: touch;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
