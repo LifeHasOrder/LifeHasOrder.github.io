@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  {% include header.html %}
+
+  <link href="/dist/css/cover.css" rel="stylesheet">
+
+<!-- NAVBAR
+================================================== -->
+  <body data-spy="scroll" data-target="#navbar">
+
+
+  <!-- Cover style home page with image as background -->
+
+    <div class="ansel">
+      <div class="site-wrapper" id="home">
+        <div class="site-wrapper-inner">
+          <div class="cover-container">
+            <div class="masthead clearfix">
+              <div class="inner">
+                <h3 class="masthead-brand">WhyWolff</h3>
+                <div id="navbar">
+                  <nav>
+                    <ul class="nav masthead-nav">
+                      <li><a href="#home">Home</a></li>
+                      <li><a href="#about">About</a></li>
+                      <li><a href="#blog">Blog</a></li>
+                      <li><a href="#contact">Contact</a></li>
+                    </ul>
+                  </nav>
+                </div>
+              </div>
+            </div>
+            <div class="inner cover">
+              <h1 class="cover-heading">"Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible" - Richard Feynman </h1>
+              <p class="lead"></p>
+            </div>
+        </div>
+      </div>
+    </div>
+
+
+   
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container marketing" id="about">
+
+      
+
+      <!-- START THE FEATURETTES -->
+
+
+      {{content}}
+
+
+      {% include contact.html %}
+
+
+      {% include footer.html %}
+
+
+    </div><!-- /.container -->
+  </body>
+</html>

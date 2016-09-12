@@ -1,90 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="Alexander Wolff's Blog">
-    <meta name="author" content="Alexander Wolff">
-    <link rel="icon" href="../../favicon.ico">
 
-    <title>Alexander Wolff - UCSF Graduate Student</title>
+  {% include header.html %}
 
-    <!-- Bootstrap core CSS -->
-    <link href="../dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="../dist/css/font-awesome.min.css">
-
-   
-
-    <!-- Custom styles for this template -->
-    <link href="../dist/css/carousel.css" rel="stylesheet">
-  </head>
 <!-- NAVBAR
 ================================================== -->
-  <body>
-  <!-- Google Tag Manager -->
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MK43J5"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-MK43J5');</script>
-  <!-- End Google Tag Manager -->
-    <div class="navbar-wrapper">
-      <div class="container">
+  <body data-spy="scroll" data-target="#navbar">
 
-        <nav class="navbar navbar-inverse navbar-static-top">
-          <div class="container">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="/">WhyWolff</a>
-            </div>
-            <div id="navbar" class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li class="dropdown">
-                  <a href="/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Main Topics <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="/learning">Learning</a></li>
-                    <li><a href="/science">Science</a></li>
-                    <li><a href="/hobbies">A Balanced Life</a></li>
+  <!-- Cover style home page -->
+
+    <div class="site-wrapper" id="home">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">WhyWolff</h3>
+              <div id="navbar">
+                <nav>
+                  <ul class="nav masthead-nav">
+                    <li><a href="/#home">Home</a></li>
+                    <li><a href="/#about">About</a></li>
+                    <li><a href="/#blog">Blog</a></li>
+                    <li><a href="#contact">Contact</a></li>
                   </ul>
-                </li>
-                <li class="active"><a href="/blog">Blog</a></li>
-                <li><a href="/about">About</a></li>
-                <li><a href="/contact">Contact</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                    <li class="dropdown-header">Brain Food</li>
-                    <li><a href="http://ocw.mit.edu/index.htm">MIT OCW</a></li>
-                    <li><a href="http://edge.org/">Edge</a></li>
-                    <li role="separator" class="divider"></li>
-                    <li class="dropdown-header">Cutting-Edge Science</li>
-                    <li><a href="http://biophysics.ucsf.edu/">UCSF Biophysics</a></li>
-                    <li><a href="http://fraserlab.com/">Fraser Lab</a></li>
-                    <li><a href="http://frostlab.org/">Frost Lab</a></li>
-                    <li><a href="http://www.msg.ucsf.edu/agard/">Agard Lab</a></li>
-                    <li><a href="http://kampmannlab.ucsf.edu/">Kampmann Lab</a></li>
-                  </ul>
-                </li>
-              </ul>
-              <ul class="nav navbar-nav navbar-right">
-              	<li class="pull-right"><a href="https://twitter.com/LifeHasOrder"><i class="fa fa-twitter fa-2x"></i></a></li>
-              	<li class="pull-right"><a href="https://github.com/LifeHasOrder"><i class="fa fa-github-alt fa-2x"></i></a></li>
-              	<li class="pull-right"><a href="https://www.linkedin.com/in/lifehasorder"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
-              	<li class="pull-right"><a href="https://plus.google.com/100151160303383716744/about"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
-            	</ul>
+                </nav>
+              </div>
             </div>
           </div>
-        </nav>
-
       </div>
     </div>
 
@@ -94,31 +36,19 @@
 
     <div class="container marketing">
 
+
+
+    {{content}}
+
+
+    <!-- Add Contact Section -->
+
+    {% include contact.html %}
+
+
+    {% include footer.html %}
       
 
-      <!-- START THE FEATURETTES -->
-
-
-      {{content}}
-
-
-
-      <!-- /END THE FEATURETTES -->
-
-
-      <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2016 Alexander Wolff </p>
-      </footer>
-
     </div><!-- /.container -->
-
-
-   <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="../dist/js/bootstrap.min.js"></script>
   </body>
 </html>
