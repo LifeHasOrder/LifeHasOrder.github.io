@@ -29,7 +29,7 @@ a:hover {
 /*
  * Base structure
  */
- /*note that by commenting out the html below you can have the cover image on the whole website, the background image will slide with the browser's window*/
+ /*note that by commenting out the html height below you can have the cover image on the whole website, the background image will slide with the browser's window*/
 html{
 no-repeat center center fixed;
 background-size: cover;
