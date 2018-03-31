@@ -3,65 +3,56 @@ layout: home
 ---
 
 
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-    <hr class="featurette-divider">
- 	<div class="row featurette">
-        <div class="col-sm-7">
-          	<h1>Who is Alexander Wolff?
-          	<br></h1>
-          	<p class="lead text-justify">I am a graduate student in the <a href="http://fraserlab.com">Fraser Lab</a> at the University of California, San Francisco (UCSF), where I investigate how life works on the molecular scale.</p>
-          	<h1>What is the purpose of this Website?
-          	<br></h1>
-          	<p class="lead text-justify">To share my thoughts, ideas, and experiences. I also hope to inspire future scientists, to encourage scientific literacy, and to promote critical thinking by all. Really, this is an experiment and only time will tell how the site will evolve.</p>
-        </div>
-        <div class="col-sm-5">
-          	<img class="featurette-image" src="../img/wolff2.jpg" alt="">
-        </div>
-	</div>
 
-  <!-- Three columns of text below the carousel -->
-  <div class="row">
-    <div class="col-sm-4">
-      <div class="image">
-        <a href="family.html" role="button">
-        <img src="/img/darwins_first_tree.jpg" alt="" width="100%" height="auto"/>
-        <img-caption><span>Family & Friends</span></img-caption></a>
+  <hr class="clear-featurette-divider">
+  <div class="adams" id="about">
+   	<div class="row featurette">
+      <div class="col-md-4">
+
+        	<h3>My Vision
+        	<br></h3>
+        	<p align="left">What makes an image powerful? Memorable? Is every image worth one-thousand words, or do some have a deeper story to tell? While I don’t have the answers to these questions, I plan to explore them using the images I create. I believe the best images convey emotion, and provide a sense of story, so I aim to capture those elements when I get behind the lens. When one of my images speaks to you, my work as a photographer is fulfilled. As the viewer, I only ask that you pause when an image catches your eye. What is it about the image that appeals to you? What do you think of while viewing it? What do you feel? Explore as little or as much as you like, but please enjoy the view.
+          <br><br>
+          If you want to explore my full portfolio, or purchase prints of my images, please visit <a href="http://www.InspiredPhotons.com" ><font color="#0bb9e5">www.InspiredPhotons.com</font></a>.</p>
+        </div>
+      <div class="col-md-8">
+        	<img class="image" src="../img/IMG_7079.jpg" alt="">
       </div>
-    </div>
-    <div class="col-sm-4">
-      <div class="image">
-        <a href="wyoming.html" role="button">
-        <img src="/img/ansel.jpg" alt="" width="100%" height="auto"/>
-        <img-caption><span>Growing up in Wyoming</span></img-caption></a>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <div class="image">
-        <a href="cv.html" role="button">
-        <img src="/img/laptop_notebook.jpg" alt="" width="100%" height="auto"/>
-        <img-caption><span>Professional Accomplishments</span></img-caption></a>
-      </div>
-    </div>
+  	</div>
   </div>
 
 
+  <div id="blog">
+    <hr class="clear-featurette-divider">
+    <div class="adams">
+      <hr class="featurette-divider">
+      <h1>"Painting with light, in slivers of time, within the frame of our image" - David duChemin</h1>
+      <hr class="clear-featurette-med-divider">
+      {% for post in site.posts %}
+        {% assign loopindex = forloop.index %}
+        {% if loopindex <= 5 %}
 
-  <div class="container" id="blog">
-  <hr class="featurette-divider">
-    {% for post in site.posts %}
+          <div class="row featurette">
+            <div class="col-sm-6">
+              <h3><a href="{{post.url}}">{{post.title}}</a>
+              </h3>
+              <p>{{ post.date | date_to_string }}</p>
+              <br>
+              <p align="left">{{post.summary}}</p>
+            </div>
+            <div class="col-sm-6">
+              <a href="{{post.url}}"><img class="img-thumbnail" src="{{post.image}}" alt=""></a>
+            </div>
+          </div>
+          <hr class="clear-featurette-med-divider">
+
+        {% endif %}
+      {% endfor %}
       <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading"><a href="{{post.url}}">{{post.title}}</a>
-          <br>
-          <h2 style="color:#888888">{{ post.date | date_to_string }}</span></h2></h2>
-          <p class="lead text-justify">{{post.summary}}</p>
-        </div>
-        <div class="col-md-5">
-            <img class="image" src="{{post.image}}" alt="">
+        <div class="col-xs-12">
+          <h2 class="heading"><a href="/blog">Explore all entries...</a></h2>
         </div>
       </div>
-    {% endfor %}
+    </div>
   </div>
 

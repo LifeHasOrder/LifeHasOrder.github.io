@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+
+<div class="container" id="blog">
+
+  <hr class="featurette-top-divider">
+  <hr class="clear-featurette-med-divider">
+  {% for post in paginator.posts %}
+      <div class="row featurette">
+        <div class="col-xs-12">
+          <h1><a href="{{post.url}}">{{post.title}}</a></h1>
+          <p style="color:#888888">{{ post.date | date_to_string }}</p>
+          <a href="{{post.url}}"><img class="half-image" src="{{post.image}}" alt=""></a>
+          <br>
+          <div class="wide-lead">{{post.summary}}</div>
+        </div>
+      </div>
+      <hr class="clear-featurette-med-divider">
+  {% endfor %}
+
+
+  <!-- Pagination links -->
+  <div class="row featurette">
+    <div class="col-xs-12">
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+        {% else %}
+          <span class="previous">Previous</span>
+        {% endif %}
+        <span class="page_number "> {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+        {% else %}
+          <span class="next ">Next</span>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+</div>

@@ -12,10 +12,56 @@ body {
 }
 
 /* Links */
-a,
+/*a,
 a:focus,
 a:hover {
   color: #555555;
+}
+*/
+
+a{
+  color:#000000;
+}
+.btn:focus,
+.btn:hover,
+span:focus,
+span:hover,
+a:focus,
+a:hover {
+  color: #0bb9e5;
+}
+
+.narrow-lead {
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+  width: 80%;
+  text-align: left;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.wide-lead {
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+  width: 100%;
+  text-align: left;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.btn-default,
+.btn-default:hover{
+  color: #000000;
+},
+.btn-default:focus {
+  color: #000000;
+  text-shadow: none; /* Prevent inheritence from `body` */
+  background-color: #000000;
+  border: 1px solid #000000;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -40,6 +86,19 @@ a:hover {
 .inner {
   padding: 30px;
 }
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 87%;
+}
+
+.top-center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
 
 
 /*
@@ -62,21 +121,21 @@ a:hover {
   padding-left: 0;
   font-size: 16px;
   font-weight: bold;
-  color: #555555; /* IE8 proofing */
+  color: #000000; /* IE8 proofing */
   /*color: rgba(255,255,255,.75)*/;
   border-bottom: 2px solid transparent;
 }
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
   background-color: transparent;
-  border-bottom-color: #a9a9a9;
-  border-bottom-color: rgba(255,255,255,.25);
+  color: #0bb9e5;
+  border-bottom-color: #0bb9e5;
 }
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-  color: #000000;
-  border-bottom-color: #000000;
+  color: #0bb9e5;
+  border-bottom-color: #0bb9e5;
 }
 
 /* CUSTOMIZE THE NAVBAR
@@ -161,8 +220,18 @@ a:hover {
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
 }
 
+.clear-featurette-divider {
+  margin: 80px 0;
+  opacity: 0 /* Space out the Bootstrap <hr> more */
+}
+
 .featurette-top-divider {
   margin: 20px 0; /* Space out the Bootstrap <hr> more */
+}
+
+.clear-featurette-med-divider {
+  margin: 40px 0;
+  opacity: 0 /* Space out the Bootstrap <hr> more */
 }
 
 
@@ -184,6 +253,19 @@ a:hover {
    width: 100%;
    height: auto;
 }
+
+.half-image {
+   position: relative;
+   width: 100%;
+   height: auto;
+}
+
+.med-image {
+   position: relative;
+   width: 100%;
+   height: auto;
+}
+
 
 img-caption {
    position: absolute;
@@ -250,6 +332,24 @@ img-caption span {
     font-size: 21px;
     line-height: 1.4;
   }*/
+  .narrow-lead {;
+    width: 60%;
+}
+  .center-block {
+  width: 75%;
+}
+  .top-center-block {
+  width: 87%;
+}
+  .half-image {
+   width: 75%;
+}
+
+.med-image {
+   position: relative;
+   width: 75%;
+   height: auto;
+}
 
   .featurette-heading {
     font-size: 50px;
@@ -270,7 +370,7 @@ img-caption span {
   }
   /* Pull out the header and footer */
   .masthead {
-    position: fixed;
+    /*position: fixed;*/
     top: 0;
     z-index: 20;
   }
@@ -302,6 +402,24 @@ img-caption span {
   .cover-container {
     width: 900px;
   }
+  .center-block {
+  width: 56%;
+}
+  .top-center-block {
+  width: 75%;
+}
+.narrow-lead {
+    width: 50%;
+}
+
+.wide-lead {
+    width: 75%;
+}
+
+  .half-image {
+   width: 50%;
+}
+
 }
 
 

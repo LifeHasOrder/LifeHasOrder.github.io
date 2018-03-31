@@ -12,7 +12,7 @@ span:focus,
 span:hover,
 a:focus,
 a:hover {
-  color: #1eddd8;
+  color: #0bb9e5;
 }
 
 /* Custom default button */
@@ -37,8 +37,14 @@ height: 100%;
 /*overflow: hidden;*/
 }
 body {
+  background: url(/img/DSC_2094.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
   height: 100%;
-  background-color: #00012b;
+  background-color: #2b2b2b;
   color: #ffffff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
@@ -50,15 +56,25 @@ body {
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 
 .ansel {
-    background: url(/img/pasture_sunset.jpg) no-repeat center center fixed; 
+    background: url(/img/wolff_zeiss_02.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   
   height: 100%;
-  background-color: #34282C;
+  background-color: #2b2b2b;
   color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  position: relative;
+}
+
+.adams {
+
+  height: 100%;
+  background-color: rgb(43, 43, 43, 0.7);
+  color: fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
   position: relative;
@@ -124,11 +140,11 @@ body {
 }
 
 .popover-content {
-  background: #00012b
+  background: #0bb9e5
 }
 
 .popover-title {
-  background: #00012b
+  background: #0bb9e5
 }
 
 
