@@ -67,7 +67,7 @@ After meditating on the transience of beauty, and the motion of my own life, I m
 
 <br>
 <div class="narrow-lead">
-Applying my newfound appreciation drives further change in my behavior. Like Cheryl Strayed, “I put myself in the way of beauty.” For example, I have grown to love the subtle magnificence of the blue hour. This period of time is a subset of twilight, which occurs while the sun is still below the horizon. The clarity and peace of the morning blue hour is unmatched. While I struggle to crawl out of my warm sleeping bag before the sun rises, I feel the reward is worth the effort.
+Applying my newfound appreciation drives further change in my behavior. Like Cheryl Strayed, <a href='https://medium.com/@MichaelaHaas/celebrating-mothers-day-when-you-re-motherless-a-deeply-personal-interview-with-cheryl-strayed-83ae972de752'><font color="#0bb9e5">“I put myself in the way of beauty.”</font></a> For example, I have grown to love the subtle magnificence of the blue hour. This period of time is a subset of twilight, which occurs while the sun is still below the horizon. The clarity and peace of the morning blue hour is unmatched. While I struggle to crawl out of my warm sleeping bag before the sun rises, I feel the reward is worth the effort.
 </div>
 
 
