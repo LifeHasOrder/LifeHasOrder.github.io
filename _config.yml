@@ -8,3 +8,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+
+twitter_username: InspiredPhotons
+url: http://whywolff.com/
+title_image: http://whywolff.com/../img/IMG_7079.jpg
