@@ -9,6 +9,8 @@ image: /img/magnolia_blossoms_01.jpg
 description: ""
 
 summary: ""
+
+published:false
 ---
 
 <div class="narrow-lead">
