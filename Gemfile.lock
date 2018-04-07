@@ -236,6 +236,7 @@ DEPENDENCIES
   github-pages
   jekyll-paginate
   jekyll-seo-tag
+  jekyll-sitemap
 
 BUNDLED WITH
-   1.15.4
+   1.16.1

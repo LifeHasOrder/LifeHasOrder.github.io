@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Cathartic Journey Through Nature"
+title: Cathartic Journey Through Nature
 subtitle:
 author: Alexander M Wolff
-summary: "You hold back to keep your life moving forward, to maintain stability, but you can feel the pressure building. The wise, old ones said that nature offers release. So, you run to wide open spaces, and stumble upon a scene of peace. Reflecting on the scene, you feel as though it evinces the solitude and clarity you sought. Nonetheless, Nature is dynamic, and reminds you that beauty and peace are transient. As your meditation deepens, you begin to notice the dream-like qualities of scenes you overlooked in the past. Bringing your newfound vision forth, it dawns on you that enlightenment is subtler than you expected. It is a process that rewards you each day. With a final glance backward, you realize that you left pain behind and gained clarity simply by putting one foot in front of the other, and that keeps you moving forward."
 date: 2018-03-31
 image: /img/wolff_zeiss_01_small.jpg
+
+description: "I knew that spilled coffee wasn’t the source. My feelings were poignant, yet deep and utterly mysterious to me. Tracing their origins revealed connections to darker moments, which reminded me that adversity is much deeper than a puddle of coffee. Adversity is a pit that develops between the throat and the stomach when..."
+
+summary: "You hold back to keep your life moving forward, to maintain stability, but you can feel the pressure building. The wise, old ones said that nature offers release. So, you run to wide open spaces, and stumble upon a scene of peace. Reflecting on the scene, you feel as though it evinces the solitude and clarity you sought. Nonetheless, Nature is dynamic, and reminds you that beauty and peace are transient. As your meditation deepens, you begin to notice the dream-like qualities of scenes you overlooked in the past. Bringing your newfound vision forth, it dawns on you that enlightenment is subtler than you expected. It is a process that rewards you each day. With a final glance backward, you realize that you left pain behind and gained clarity simply by putting one foot in front of the other, and that keeps you moving forward."
 ---
 
 <div class="narrow-lead">
@@ -14,7 +17,7 @@ I knew that spilled coffee wasn’t the source. My feelings were poignant, yet d
 
 <br>
 <div class="top-center-block">
-<img class="image" src="/img/wolff_zeiss_01.jpg" alt="Pressure Building">
+<img class="image" src="/img/wolff_zeiss_01.jpg" alt="">
 <p>I see this logjam on the Merced River as a metaphor for the emotions we hold back to keep daily life flowing smoothly.</p>
 </div>
 
