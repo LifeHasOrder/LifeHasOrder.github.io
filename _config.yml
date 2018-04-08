@@ -8,6 +8,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-algolia
 
 twitter_username: InspiredPhotons
 url: http://whywolff.com
@@ -15,3 +16,8 @@ title_image: http://whywolff.com/img/IMG_7079.jpg
 description: What makes an image powerful? Memorable? Is every image worth one-thousand words, or do some have a deeper story to tell?
 future: false
 show_drafts: false
+
+algolia:
+  application_id: 'IH6JGO5OTG'
+  index_name: 'whywolff'
+  search_only_api_key: 'a1da6daba3f9e37e6522c7cd9f8824c0'

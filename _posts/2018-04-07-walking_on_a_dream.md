@@ -13,7 +13,7 @@ what I found below the sidewalk. Is it<br>
 A glimpse of the Twilight Zone?<br>"
 ---
 
-<div class="narrow-lead">
+<p class="narrow-lead">
 Look<br>
 what I found below the sidewalk. Is it<br>
 a glimpse of the Twilight Zone?<br>
@@ -22,7 +22,7 @@ ought to stoop over the entrance,<br>
 and yell at them.<br>
 They are doing it all wrong.<br>
 Their world is upside down.<br>
-</div>
+</p>
 
 <br>
 <div class="top-center-block">
@@ -30,7 +30,7 @@ Their world is upside down.<br>
 </div>
 
 <br>
-<div class="narrow-lead">
+<p class="narrow-lead">
 For you and I<br>
 can clearly see<br>
 that their trees are growing down.<br>
@@ -54,7 +54,7 @@ and expressing gratitude<br>
 for the shower<br>
 that washed away our grime<br>
 and opened a window between us.<br>
-</div>
+</p>
 
 
 

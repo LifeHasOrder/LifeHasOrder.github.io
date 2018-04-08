@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include header.html %}
+
+<!-- NAVBAR
+================================================== -->
+  <body>
+
+  <!-- Cover style home page -->
+
+    <div class="site-wrapper" id="home">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Alexander M Wolff</h3>
+              <div id="navbar">
+                <nav>
+                  <ul class="nav masthead-nav">
+                    <li><a href="/#home">Home</a></li>
+                    <li><a href="/#about">About</a></li>
+                    <li><a href="/blog#blog" data-target="#blog">Stories</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li class="active"><a href="/search#search"><i class="fa fa-search"></i></a></li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+
+
+   
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container marketing" id="search">
+
+      
+
+      <!-- START THE FEATURETTES -->
+
+
+      {{content}}
+
+      <h1 class="page-heading">What can I help you find?</h1>
+
+      <div id="search-searchbar"></div>
+
+      <div class="post-list" id="search-hits">
+        {% for post in site.posts %}
+          <div class="post-item">
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+            <div class="post-snippet">{{ post.excerpt }}</div>
+          </div>
+        {% endfor %}
+      </div>
+
+
+      {% include algolia.html %}
+
+      <div id="pagination-container"></div>
+
+
+      {% include contact.html %}
+
+
+      {% include footer.html %}
+
+
+    </div><!-- /.container -->
+  </body>
+</html>
