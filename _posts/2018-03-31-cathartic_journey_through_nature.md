@@ -88,7 +88,7 @@ Rising early is a ritual I can bring home to daily life, as is mindful appreciat
 
 <br>
 <div class="top-center-block">
-	<img class="image" src="/img/wolff_zeiss_07.jpg" alt="">
+	<img class="tall-image" src="/img/wolff_zeiss_07.jpg" alt="">
 	<p>Looking back down the path reveals that structure and clarity are increasing with each step forward.</p>
 </div>
 

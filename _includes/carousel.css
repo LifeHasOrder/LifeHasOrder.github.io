@@ -266,6 +266,12 @@ a:hover {
    height: auto;
 }
 
+.tall-image {
+  position: relative;
+  max-height:95vh;
+  width:auto;
+}
+
 
 img-caption {
    position: absolute;
@@ -404,21 +410,21 @@ img-caption span {
   }
   .center-block {
   width: 56%;
-}
+  }
   .top-center-block {
   width: 75%;
-}
-.narrow-lead {
+  }
+  .narrow-lead {
     width: 50%;
-}
+  }
 
-.wide-lead {
+  .wide-lead {
     width: 75%;
-}
+  }
 
   .half-image {
    width: 50%;
-}
+  }
 
 }
 

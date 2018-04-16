@@ -3,8 +3,8 @@ layout: post
 title: Magnolia Blossoms
 subtitle:
 author: Alexander M Wolff
-date: 2018-04-14
-image: /img/magnolia_blossoms_01.jpg
+date: 2018-04-8
+image: /img/magnolia_blossoms_01_small.jpg
 
 description: ""
 
