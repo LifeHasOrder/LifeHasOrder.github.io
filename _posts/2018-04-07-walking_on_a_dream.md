@@ -26,7 +26,7 @@ Their world is upside down.<br>
 
 <br>
 <div class="top-center-block">
-<img class="image" src="/img/walking_on_a_dream.jpg" alt="Walking on a Dream">
+<img class="image" src="/img/walking_on_a_dream.jpg" alt="Walking on a Dream - a tree viewed through a reflection off a puddle on the sidewalk.">
 </div>
 
 <br>

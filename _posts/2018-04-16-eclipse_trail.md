@@ -18,7 +18,7 @@ We were stranded at Jenny Lake, exactly as we had planned. Our pickup was 35 mil
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_01.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_01.jpg" alt="Cathedral Group of the Teton Range, viewed from the Snake River Outlook.">
 <p>Cathedral Group of the Teton Range from the Snake River Outlook - The location where Ansel Adams made his iconic image, and the angle that we most often see the Tetons photographed from.</p>
 </div>
 <br>
@@ -34,7 +34,7 @@ Back at the truck, we cleaned ourselves up. Leslie educated me on homeless hygie
 <br>
 
 <div class="top-center-block">
-<img class="tall-image" src="/img/eclipse_trail_13.jpg" alt="">
+<img class="tall-image" src="/img/eclipse_trail_13.jpg" alt="Trail Toes - Grit is part of any good adventure, but rarely makes the highlights.">
 <p>Trail Toes -  Grit is part of any good adventure, but rarely makes the highlights. Image Credit: Leslie Wolff</p>
 </div>
 <br>
@@ -55,7 +55,7 @@ Early on the 20th, we found the perfect camping spot beside a small lake in Gran
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_03.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_03.jpg" alt="Campsite in Granite Basin, looking up at Littles Peak in the Teton Range.">
 <p>Location Location - We had it all here, proximity to Littles Peak, beautifully weathered trees, and a spot to enjoy the sunshine.</p>
 </div>
 <br>
@@ -68,7 +68,7 @@ With camp situated, we decided to relax for a couple of hours. We had been going
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_04.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_04.jpg" alt="The gnarled roots of an old tree, taking a form that pays homage to Van Gogh's The Starry Night.">
 <p>Van Gogh - The essence of Van Gogh's <i>The Starry Night</i> is captured by the flow and the swirls of the wood making up this gnarled stump.</p>
 </div>
 <br>
@@ -80,7 +80,7 @@ While we were daydreaming and sunbathing, others were climbing mountains. Litera
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_02.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_02.jpg" alt="A boundary pin dividing Targhee National Forest and Grand Teton National Park.">
 <p>Boundary Pin - This pin marks the boundary between Targhee National Forest and Grand Teton National Park.</p>
 </div>
 <br>
@@ -91,7 +91,7 @@ The boundary between Targhee National Forest and Grand Teton National Park runs 
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_14.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_14.jpg" alt="Admiring Mount Moran from Littles Peak.">
 <p>Admiring Mount Moran - On our dry run for the eclipse, huddled on the southern slope of Littles Peak, we found some amazing views of the most iconic mountains of the Teton Range.</p>
 </div>
 <br>
@@ -107,7 +107,7 @@ Despite this concern, I realized the smoke was creating a beautiful scene in its
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_05.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_05.jpg" alt="Smoke from wildfires in Montana filled the air, leading to a colorful sunset over Granite Basin in the Tetons.">
 <p>Hazy Sunset - Smoke from wildfires in Montana filled the air, and we grew apprehensive, worrying that the eclipse might be obscurred the next morning.</p>
 </div>
 <br>
@@ -118,7 +118,7 @@ Despite this concern, I realized the smoke was creating a beautiful scene in its
 <br>
 
 <div class="top-center-block">
-<img class="tall-image" src="/img/eclipse_trail_06.jpg" alt="">
+<img class="tall-image" src="/img/eclipse_trail_06.jpg" alt="A gnarled old tree in Targhee National Forest, painted red by the light from a smoky sunset.">
 <p>Gnar Gnar - The light that made it through the smoky clouds painted the landscape red, which was perfect for highlighting the natural beauty of this weathered tree.</p>
 </div>
 <br>
@@ -130,7 +130,7 @@ During these instances, I feel like a child on Christmas morning, running amok e
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_07.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_07.jpg" alt="The sunset on the evening before the eclipse, created by a cloud of smoke on the horizon.">
 <p>Red Sun - On the evening before the eclipse, the sun set into a cloud of smoke on the horizon.</p>
 </div>
 <br>
@@ -155,7 +155,7 @@ At the peak, there were nine of us: the five younger guys, two older gents, Lesl
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_08.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_08.jpg" alt="Leslie found a mountain throne on Littles Peak to view the eclipse over the Tetons.">
 <p>Mountain Throne - Leslie found a comfortable spot to lounge on the mountain top as we waited for the eclipse to progress.</p>
 </div>
 <br>
@@ -167,7 +167,7 @@ Leslie was the only woman among us, which made it that much better when she sett
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_09.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_09.jpg" alt="The temperature dropped, and the light dimmed, as totality neared.">
 <p>Totality Approaches - The temperature dropped, and the light dimmed, as totality neared.</p>
 </div>
 <br>
@@ -180,7 +180,7 @@ At just a smidge past 11:30, the darkness accelerated. We grew tense looking to 
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_10.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_10.jpg" alt="To-tal-i-teeee! - The 2017 total solar eclipse.">
 <p>To-tal-i-teeee! - The 2017 total solar eclipse.</p>
 </div>
 <br>
@@ -192,7 +192,7 @@ At just a smidge past 11:30, the darkness accelerated. We grew tense looking to 
 <br>
 
 <div class="top-center-block">
-<img class="tall-image" src="/img/eclipse_trail_11.jpg" alt="">
+<img class="tall-image" src="/img/eclipse_trail_11.jpg" alt="Eclipse Over the Tetons - The 2017 eclipse, as viewed from Littles Peak in the Teton Range.">
 <p>Eclipse Over the Tetons - The 2017 eclipse, as viewed from Littles Peak in the Teton Range.</p>
 </div>
 <br>
@@ -205,7 +205,7 @@ After the thrill of totality, a couple of the guys came over to look at the imag
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/eclipse_trail_12.jpg" alt="">
+<img class="image" src="/img/eclipse_trail_12.jpg" alt="Looking west into the Teton Basin from Littles Peak.">
 <p>Teton Basin - Looking west into the Teton Basin, we dwelled on the mountain for a moment before beginning our journey home.</p>
 </div>
 <br>

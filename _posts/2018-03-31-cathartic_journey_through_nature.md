@@ -17,7 +17,7 @@ I knew that spilled coffee wasn’t the source. My feelings were poignant, yet d
 
 <br>
 <div class="top-center-block">
-<img class="image" src="/img/wolff_zeiss_01.jpg" alt="">
+<img class="image" src="/img/wolff_zeiss_01.jpg" alt="I see this logjam on the Merced River as a metaphor for the emotions we hold back to keep daily life flowing smoothly.">
 <p>I see this logjam on the Merced River as a metaphor for the emotions we hold back to keep daily life flowing smoothly.</p>
 </div>
 
@@ -29,7 +29,7 @@ We all experience adversity, that is both certain and out of our control, but ho
 
 <br>
 <div class="top-center-block">
-	<img class="image" src="/img/wolff_zeiss_02.jpg" alt="">
+	<img class="image" src="/img/wolff_zeiss_02.jpg" alt="This scene, in Toiyabe National Forest, seems like the perfect spot to hop off the road and start a journey into the natural world.">
 	<p>This scene, in Toiyabe National Forest, seems like the perfect spot to hop off the road and start a journey into the natural world.</p>
 </div>
 
@@ -41,7 +41,7 @@ During these journeys, I move between grand vistas and quiet sanctuaries, findin
 
 <br>
 <div class="top-center-block">
-	<img class="image" src="/img/wolff_zeiss_03.jpg" alt="">
+	<img class="image" src="/img/wolff_zeiss_03.jpg" alt="he peace and beauty reflected in Mirror Lake are elements that I often seek in nature.">
 	<p>The peace and beauty reflected in Mirror Lake are elements that I often seek in nature.</p>
 </div>
 
@@ -53,7 +53,7 @@ As I continue on, my thoughts drift back to those scenes. I recognize and apprec
 
 <br>
 <div class="top-center-block">
-	<img class="image" src="/img/wolff_zeiss_04.jpg" alt="">
+	<img class="image" src="/img/wolff_zeiss_04.jpg" alt="The gradient of motion in the Merced River reminds me that beauty and peace are transient, and thus we must seek them out.">
 	<p>The gradient of motion in the Merced River reminds me that beauty and peace are transient, and thus we must seek them out.</p>
 </div>
 
@@ -65,7 +65,7 @@ After meditating on the transience of beauty, and the motion of my own life, I m
 
 <br>
 <div class="top-center-block">
-	<img class="image" src="/img/wolff_zeiss_05.jpg" alt="">
+	<img class="image" src="/img/wolff_zeiss_05.jpg" alt="An abstract frame of a frosty morning along Green Creek, in the Eastern Sierras, highlights ethereal beauty that often goes overlooked.">
 	<p>An abstract frame of a frosty morning along Green Creek, in the Eastern Sierras, highlights ethereal beauty that often goes overlooked.</p>
 </div>
 
@@ -77,7 +77,7 @@ Applying my newfound appreciation drives further change in my behavior. Like Che
 
 <br>
 <div class="top-center-block">
-	<img class="image" src="/img/wolff_zeiss_06.jpg" alt="">
+	<img class="image" src="/img/wolff_zeiss_06.jpg" alt="The subtle beginnings of alpenglow in the Eastern Sierras are the reward for rising early.">
 	<p>The subtle beginnings of alpenglow in the Eastern Sierras are the reward for rising early.</p>
 </div>
 
@@ -88,7 +88,7 @@ Rising early is a ritual I can bring home to daily life, as is mindful appreciat
 
 <br>
 <div class="top-center-block">
-	<img class="tall-image" src="/img/wolff_zeiss_07.jpg" alt="">
+	<img class="tall-image" src="/img/wolff_zeiss_07.jpg" alt="Looking back down the path the path to Mirror Lake in Yosemite Valley.">
 	<p>Looking back down the path reveals that structure and clarity are increasing with each step forward.</p>
 </div>
 

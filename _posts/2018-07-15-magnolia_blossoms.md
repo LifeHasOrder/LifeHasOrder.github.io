@@ -20,7 +20,7 @@ After taking my first shot, I felt less inhibited, and went on to make a variety
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/magnolia_blossoms_01.jpg" alt="">
+<img class="image" src="/img/magnolia_blossoms_01.jpg" alt="The first blossoms of a magnolia tree, bursting forth on a winter morning in California.">
 <p>Beginning blossoms.</p>
 </div>
 <br>
@@ -33,7 +33,7 @@ Over time, the photo of the magnolia tree carved out a place in my heart. At som
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/magnolia_blossoms_02.jpg" alt="">
+<img class="image" src="/img/magnolia_blossoms_02.jpg" alt="Bundles of blooms adorn a magnolia tree on a sunny spring morning">
 <p>Bundles of blooms.</p>
 </div>
 <br>
@@ -46,7 +46,7 @@ I returned with my camera, but I struggled to capture the exchange of blossoms f
 <br>
 
 <div class="top-center-block">
-<img class="image" src="/img/magnolia_blossoms_03.jpg" alt="">
+<img class="image" src="/img/magnolia_blossoms_03.jpg" alt="A single magnolia blossom takes the spotlight as summer nears.">
 <p>A single flower takes the spotlight.</p>
 </div>
 <br>
